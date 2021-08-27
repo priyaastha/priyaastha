@@ -1,6 +1,6 @@
 ### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=40&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Astha+Priya)](https://git.io/typing-svg) </h1>
 <h3 align="center">A passionate tech enthusiast<br>
-Checkout my website <a href="https://praveenm.tech">github.com/priyaastha</a> for more information.</h3>
+Checkout my <a href="github.com/priyaastha">website</a> for more information.</h3>
 
 <p align="center">
   <a target=_blank href="mailto:priyaastha2710@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
