@@ -5,7 +5,6 @@ Checkout my <a href="github.com/priyaastha">website</a> for more information.</h
 <p align="center">
   <a target=_blank href="mailto:priyaastha2710@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/astha-priya-35a6251b1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/priyaastha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/priyaastha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
